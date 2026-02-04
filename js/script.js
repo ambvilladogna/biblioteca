@@ -6,7 +6,7 @@ const books = [
         volume: "Tomo Primo",
         copie: 1,
         autori: "Mauro Sarnari",
-        editore: "ASSOCIAZIONE MICOLOGICA BRESADOLA",
+        editore: "AMB Fondazione Centro Studi Micologici",
         data: "2007",
         tags: ["russole", "amb", "monografia"],
         note: ""
@@ -17,7 +17,7 @@ const books = [
         volume: "Tomo Secondo",
         copie: 1,
         autori: "Mauro Sarnari",
-        editore: "ASSOCIAZIONE MICOLOGICA BRESADOLA",
+        editore: "AMB Fondazione Centro Studi Micologici",
         data: "2007",
         tags: ["russole", "amb", "monografia"],
         note: ""
