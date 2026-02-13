@@ -52,7 +52,7 @@ const books = [
         autori: "A. Cappelli",
         editore: "Candusso Editrice",
         data: "1984",
-        tags: [],
+        tags: ["monografia"],
         note: ""
     },
     {
@@ -63,7 +63,7 @@ const books = [
         autori: "Giovanni Robich",
         editore: "AMB Fondazione Centro Studi Micologici",
         data: "",
-        tags: [],
+        tags: ["monografia"],
         note: ""
     }
 ];
