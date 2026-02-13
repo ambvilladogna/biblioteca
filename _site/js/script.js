@@ -8,7 +8,7 @@ const books = [
         autori: "Mauro Sarnari",
         editore: "AMB Fondazione Centro Studi Micologici",
         data: "2007",
-        tags: ["russole", "amb", "monografia"],
+        tags: ["amb", "monografia"],
         note: ""
     },
     {
@@ -19,7 +19,7 @@ const books = [
         autori: "Mauro Sarnari",
         editore: "AMB Fondazione Centro Studi Micologici",
         data: "2007",
-        tags: ["russole", "amb", "monografia"],
+        tags: ["amb", "monografia"],
         note: ""
     },
     {
