@@ -2650,7 +2650,7 @@
     "copie": 1,
     "autori": "Francesco Doveri",
     "editore": "A.M.B. Fondazione Centro Studi Micologici",
-    "data": "",
+    "data": "2004",
     "tags": [
       "A.M.B.",
       "Monografia"
@@ -2661,11 +2661,11 @@
   {
     "id": 197,
     "titolo": "Les Psalliotes",
-    "volume": "",
+    "volume": "Atlas mycologiques - I",
     "copie": 1,
     "autori": "Henri Essetti",
     "editore": "AMI",
-    "data": "",
+    "data": "1964",
     "tags": [
       "Monografia"
     ],
@@ -3208,5 +3208,24 @@
     "copie": 1,
     "tags": [],
     "rating": 1
+  },
+  {
+    "id": 222,
+    "titolo": "Manuale del ricercatore di tartufi",
+    "autori": "Andrea Daprati, Antonio Granata",
+    "editore": "Regione Lombardia Agricoltura",
+    "data": "2009",
+    "copie": 1,
+    "tags": []
+  },
+  {
+    "id": 223,
+    "titolo": "Funghi che degradano il legno",
+    "autori": "Autori vari",
+    "editore": "Silvatica Editore",
+    "data": "2007",
+    "copie": 1,
+    "rating": 1,
+    "tags": []
   }
 ]
