@@ -1359,7 +1359,7 @@
     "id": 100,
     "titolo": "Fungi Europaei",
     "volume": "2 – Boletus Dill ex L. (sensu lato)",
-    "copie": 1,
+    "copie": 2,
     "autori": "C. L. Alessio",
     "editore": "Candusso Editrice",
     "data": "1985",
@@ -1387,7 +1387,7 @@
     "id": 102,
     "titolo": "Fungi Europaei",
     "volume": "3 - Tricholoma (Fr.) Staude",
-    "copie": 1,
+    "copie": 2,
     "autori": "A. Riva",
     "editore": "Candusso Editrice",
     "data": "2003",
@@ -1446,7 +1446,7 @@
     "copie": 1,
     "autori": "M. E. Noordeloos",
     "editore": "Candusso Editrice",
-    "data": "",
+    "data": "2004",
     "tags": [
       "Monografia"
     ],
@@ -1460,7 +1460,7 @@
     "copie": 1,
     "autori": "M. Candusso",
     "editore": "Candusso Editrice",
-    "data": "",
+    "data": "1997",
     "tags": [
       "Monografia"
     ],
@@ -1474,7 +1474,7 @@
     "copie": 1,
     "autori": "M. T. Basso",
     "editore": "Candusso Editrice",
-    "data": "",
+    "data": "1999",
     "tags": [
       "Monografia"
     ],
@@ -1488,7 +1488,7 @@
     "copie": 1,
     "autori": "H. Ladurnier, G. Simonini",
     "editore": "Candusso Editrice",
-    "data": "",
+    "data": "2003",
     "tags": [
       "Monografia"
     ],
@@ -1502,7 +1502,7 @@
     "copie": 1,
     "autori": "P. Neville, S. Poumarat",
     "editore": "Candusso Editrice",
-    "data": "",
+    "data": "2004",
     "tags": [
       "Monografia"
     ],
@@ -1516,7 +1516,7 @@
     "copie": 1,
     "autori": "A. Bernicchia",
     "editore": "Candusso Editrice",
-    "data": "",
+    "data": "2005",
     "tags": [
       "Monografia"
     ],
@@ -2563,10 +2563,10 @@
     "id": 190,
     "titolo": "Mycena d’Europa",
     "volume": "volume 2",
-    "copie": 2,
+    "copie": 1,
     "autori": "Giovanni Robich",
     "editore": "A.M.B. Fondazione Centro Studi Micologici",
-    "data": "",
+    "data": "2016",
     "tags": [
       "A.M.B.",
       "Monografia"
