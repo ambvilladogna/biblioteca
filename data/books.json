@@ -425,8 +425,8 @@
     "id": 32,
     "titolo": "Micologia Duemila",
     "volume": "",
-    "copie": 2,
-    "autori": "",
+    "copie": 1,
+    "autori": "Autori Vari",
     "editore": "A.M.B. Fondazione Centro Studi Micologici",
     "data": "2000",
     "tags": [
@@ -1214,7 +1214,7 @@
     "volume": "Pars XVI – Introduzione allo studio della Ramaria in Europa",
     "copie": 1,
     "autori": "Paolo Franchi, Mauro Marchetti",
-    "editore": "Edidioni Candusso",
+    "editore": "Edizioni Candusso",
     "data": "2001",
     "tags": [
       "Monografia"
@@ -1228,7 +1228,7 @@
     "volume": "Pars XXI – Contribution to the knowledge of species of Entoloma subgenus Leptonia",
     "copie": 1,
     "autori": "Jan Vesterholt",
-    "editore": "Edidioni Candusso",
+    "editore": "Edizioni Candusso",
     "data": "2002",
     "tags": [
       "Monografia"
@@ -1242,7 +1242,7 @@
     "volume": "Pars XXII – Macromiceti nuovi, rari o specifici della regione mediterranea",
     "copie": 1,
     "autori": "Daniele Antonini, Massimo Antonini",
-    "editore": "Edidioni Candusso",
+    "editore": "Edizioni Candusso",
     "data": "2002",
     "tags": [],
     "rating": 3,
@@ -1254,7 +1254,7 @@
     "volume": "Pars XXIII – Studies in Galerina Galerinae Flandriae (1)",
     "copie": 1,
     "autori": "André de Haan, Ruben Walleyn",
-    "editore": "Edidioni Candusso",
+    "editore": "Edizioni Candusso",
     "data": "2002",
     "tags": [
       "Monografia"
@@ -1268,7 +1268,7 @@
     "volume": "Pars XXV – Osservazioni sul genere Melanoleuca",
     "copie": 1,
     "autori": "Roberto Fontenla, Mario Gottardi",
-    "editore": "Edidioni Candusso",
+    "editore": "Edizioni Candusso",
     "data": "2003",
     "tags": [
       "Monografia"
@@ -1553,10 +1553,10 @@
     "id": 114,
     "titolo": "Guida alla determinazione dei funghi",
     "volume": "Vol 3° - Inocybe",
-    "copie": 2,
+    "copie": 1,
     "autori": "J. Stangl",
     "editore": "Saturnia",
-    "data": "",
+    "data": "1991",
     "tags": [
       "Monografia"
     ],
@@ -1581,10 +1581,10 @@
     "id": 116,
     "titolo": "Guida alla determinazione dei funghi",
     "volume": "Vol 1° - Polyporales, Boletas, Agaricales, Russulales",
-    "copie": 2,
+    "copie": 1,
     "autori": "Meinhard Moser",
     "editore": "Saturnia",
-    "data": "",
+    "data": "1986",
     "tags": [
       "Monografia"
     ],
@@ -1607,10 +1607,10 @@
     "id": 118,
     "titolo": "Atlante Iconografico 1981-1983",
     "volume": "",
-    "copie": 2,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "copie": 1,
+    "autori": "Giacomo Lazzari",
+    "editore": "A. M. B. - Trento",
+    "data": "1985",
     "tags": [],
     "rating": 1,
     "note": ""
@@ -1794,8 +1794,8 @@
     "volume": "",
     "copie": 2,
     "autori": "G. Lazzari",
-    "editore": "Saturnia",
-    "data": "",
+    "editore": "Arti Grafiche Saturnia - Trento",
+    "data": "1973",
     "tags": [
       "Historia"
     ],
@@ -1915,10 +1915,10 @@
     "id": 141,
     "titolo": "Don Giacomo Bresadola da Ortisé il prete dei funghi",
     "volume": "",
-    "copie": 2,
-    "autori": "Centro Studi per la Val di Sole",
-    "editore": "",
-    "data": "",
+    "copie": 1,
+    "autori": "Udalrico Fantelli",
+    "editore": "Centro Studi per la Val di Sole",
+    "data": "2014",
     "tags": [
       "Historia"
     ],
@@ -1969,12 +1969,13 @@
     "id": 145,
     "titolo": "Conspectus Fungorum",
     "volume": "",
-    "copie": 2,
+    "copie": 1,
     "autori": "Albertini et Schweiniz",
     "editore": "A.M.B. Fondazione Centro Studi Micologici",
-    "data": "",
+    "data": "1805",
     "tags": [
-      "A.M.B."
+      "A.M.B.",
+      "Historia"
     ],
     "rating": 1,
     "note": ""
@@ -2067,7 +2068,7 @@
     "copie": 1,
     "autori": "",
     "editore": "Il Polifilo Editore",
-    "data": "",
+    "data": "1979",
     "tags": [
       "Historia"
     ],
@@ -2081,7 +2082,7 @@
     "copie": 1,
     "autori": "",
     "editore": "Il Polifilo Editore",
-    "data": "",
+    "data": "1979",
     "tags": [
       "Historia"
     ],
@@ -2094,8 +2095,8 @@
     "volume": "Inocybe – Generalia et Descriptiones",
     "copie": 1,
     "autori": "J. Bresadola, C. L. Alessio",
-    "editore": "",
-    "data": "",
+    "editore": "TRIDENTI",
+    "data": "1980",
     "tags": [
       "Historia"
     ],
@@ -2108,8 +2109,8 @@
     "volume": "Inocybe – Tabulae",
     "copie": 1,
     "autori": "J. Bresadola, E. Rebaudengo",
-    "editore": "",
-    "data": "",
+    "editore": "TRIDENTI",
+    "data": "1980",
     "tags": [
       "Historia"
     ],
@@ -2135,7 +2136,7 @@
     "copie": 1,
     "autori": "Antonio Gennari",
     "editore": "",
-    "data": "",
+    "data": "2001",
     "tags": [],
     "rating": 1,
     "note": ""
@@ -2147,7 +2148,7 @@
     "copie": 1,
     "autori": "Antonio Gennari",
     "editore": "",
-    "data": "",
+    "data": "2008",
     "tags": [],
     "rating": 1,
     "note": ""
@@ -2157,9 +2158,9 @@
     "titolo": "Elementi chimici nei funghi superiori",
     "volume": "",
     "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "autori": "Roberto M. Cen, Luciano Vescovici, Luigi Cocchi, Orlando Petrini, Fabrizio Sena, Carmine Siniscalco",
+    "editore": "Casa Editrice Grafica Sette",
+    "data": "2011",
     "tags": [
       "Formazione"
     ],
@@ -2172,8 +2173,8 @@
     "volume": "",
     "copie": 1,
     "autori": "Annarosa Bernicchia",
-    "editore": "",
-    "data": "",
+    "editore": "Istituto di Patologia Vegetale Università degli Studi di Bologna",
+    "data": "1990",
     "tags": [
       "Monografia"
     ],
@@ -2186,25 +2187,25 @@
     "volume": "",
     "copie": 1,
     "autori": "Italo Milanesi",
-    "editore": "",
-    "data": "",
+    "editore": "A. M. B.",
+    "data": "2015",
     "tags": [
       "Formazione",
       "Commestibilità"
     ],
-    "rating": 1,
+    "rating": 3,
     "note": ""
   },
   {
     "id": 162,
     "titolo": "Monografie di pagine di micologia",
-    "volume": "I generi Hohenbuehelia e Resupinatus in Europa",
+    "volume": "Tomo Terzo - I generi Hohenbuehelia e Resupinatus in Europa",
     "copie": 1,
     "autori": "Giovanni Consiglio, Ledo Setti",
-    "editore": "",
-    "data": "",
+    "editore": "A. M. B. - C. S. M.",
+    "data": "2018",
     "tags": [],
-    "rating": 1,
+    "rating": 3,
     "note": ""
   },
   {
@@ -2213,8 +2214,8 @@
     "volume": "",
     "copie": 1,
     "autori": "R. W. G. Dennis",
-    "editore": "",
-    "data": "",
+    "editore": "J. Cramer",
+    "data": "1981",
     "tags": [],
     "rating": 1,
     "note": ""
@@ -2226,7 +2227,7 @@
     "copie": 1,
     "autori": "Mario Galli",
     "editore": "Mazzotta",
-    "data": "",
+    "data": "2011",
     "tags": [],
     "rating": 1,
     "note": "verificare che non sia identico a precedente in due volumi"
@@ -2238,7 +2239,7 @@
     "copie": 1,
     "autori": "Mido Traverso",
     "editore": "A.M.E.R.",
-    "data": "",
+    "data": "1998",
     "tags": [
       "Monografia"
     ],
@@ -2247,10 +2248,10 @@
   },
   {
     "id": 166,
-    "titolo": "Carlo Vittadini Funghi Ipogei",
-    "volume": "",
+    "titolo": "Funghi Ipogei",
+    "volume": "Carlo Vittadini - Monographia Tuberacearum",
     "copie": 1,
-    "autori": "Antoni Auguardi, Gianfelice Lucchini, Alfredo Riva",
+    "autori": "Antoni Auguardi, Gianfelice Lucchini, Alfredo Riva, Emilio Testa",
     "editore": "Societa Micologica Carlo Benzoni",
     "data": "1991",
     "tags": [
@@ -3159,5 +3160,37 @@
         "tags": []
       }
     ]
+  },
+  {
+    "id": 217,
+    "titolo": "Raccogliamo i funghi",
+    "autori": "Uberto Tosco",
+    "editore": "Istituto Geografico De Agostini - Novara",
+    "data": "1976",
+    "copie": 1,
+    "rating": 1,
+    "tags": [
+      "Formazione"
+    ]
+  },
+  {
+    "id": 218,
+    "titolo": "Gastromiceti",
+    "editore": "A. M. B. - Gruppo Micologico Parmense \"G. Passarini\"",
+    "data": "1980",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": "traduzione da: Michael - Hennig: Handbuch\nPilat: Flora CSR"
+  },
+  {
+    "id": 219,
+    "titolo": "Funghi Non Delineati",
+    "volume": "Pars XXXIV-XXXV-XXXVI - Inocybe alpine e subalpine",
+    "autori": "Erminio Ferrari",
+    "editore": "Edizioni Candusso",
+    "data": "2006",
+    "copie": 1,
+    "tags": []
   }
 ]
