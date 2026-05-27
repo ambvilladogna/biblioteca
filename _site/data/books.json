@@ -2132,14 +2132,14 @@
   {
     "id": 157,
     "titolo": "401 Funghi",
-    "volume": "asdd",
+    "volume": null,
     "copie": 1,
     "autori": "Antonio Gennari",
-    "editore": "",
+    "editore": null,
     "data": "2001",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 158,
