@@ -1079,9 +1079,11 @@
     "autori": "Tipolitografia Queriniana",
     "editore": "Circolo Micologico “Giovanni Carini”",
     "data": "1992",
-    "tags": [],
+    "tags": [
+      "Formazione"
+    ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 80,
@@ -3284,7 +3286,7 @@
     "autori": "Paolo Lassini, Roberto Carovigno, Maurizio Salamana, Marco Larghi",
     "editore": "Regione Lombardia Agricoltura",
     "data": "2003",
-    "copie": 1,
+    "copie": 2,
     "tags": [],
     "note": null
   },
@@ -3321,6 +3323,20 @@
     "copie": 2,
     "rating": 1,
     "tags": [],
+    "note": null
+  },
+  {
+    "id": 232,
+    "titolo": "Corso di formazione micologica",
+    "volume": "Volume I – Introduzione allo studio dei funghi",
+    "autori": "Tipolitografia Queriniana",
+    "editore": "Circolo Micologico “Giovanni Carini”",
+    "data": "1997",
+    "copie": 6,
+    "rating": 1,
+    "tags": [
+      "Formazione"
+    ],
     "note": null
   }
 ]
