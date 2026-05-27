@@ -494,24 +494,24 @@
     "titolo": "Fungi non delineati",
     "volume": "Pars I-X",
     "copie": 1,
-    "autori": "",
+    "autori": "Autori Vari (collezione di fascicoli)",
     "editore": "Mycoflora",
     "data": "2000",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 38,
     "titolo": "Fungi non delineati",
     "volume": "Pars XI-XX",
     "copie": 1,
-    "autori": "",
-    "editore": "Mycoflora",
-    "data": "2000",
+    "autori": "Autori Vari (collezione di fascicoli)",
+    "editore": "Edizioni Candusso",
+    "data": "2002",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 39,
@@ -1030,7 +1030,7 @@
   {
     "id": 76,
     "titolo": "Bibliotheca Mycologica",
-    "volume": "Band 43 – Ramaria subgenus Echinoramaria",
+    "volume": "Band 79 – Ramaria subgenus Echinoramaria",
     "copie": 1,
     "autori": "Ronald H. Petersen",
     "editore": "J. Cramer",
@@ -1039,7 +1039,7 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 77,
@@ -1208,7 +1208,7 @@
   },
   {
     "id": 89,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XVI – Introduzione allo studio della Ramaria in Europa",
     "copie": 1,
     "autori": "Paolo Franchi, Mauro Marchetti",
@@ -1218,11 +1218,11 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 90,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXI – Contribution to the knowledge of species of Entoloma subgenus Leptonia",
     "copie": 1,
     "autori": "Jan Vesterholt",
@@ -1232,11 +1232,11 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 91,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXII – Macromiceti nuovi, rari o specifici della regione mediterranea",
     "copie": 1,
     "autori": "Daniele Antonini, Massimo Antonini",
@@ -1244,11 +1244,11 @@
     "data": "2002",
     "tags": [],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 92,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXIII – Studies in Galerina Galerinae Flandriae (1)",
     "copie": 1,
     "autori": "André de Haan, Ruben Walleyn",
@@ -1258,11 +1258,11 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 93,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXV – Osservazioni sul genere Melanoleuca",
     "copie": 1,
     "autori": "Roberto Fontenla, Mario Gottardi",
@@ -1272,7 +1272,7 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 94,
@@ -3181,13 +3181,14 @@
   },
   {
     "id": 219,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXXIV-XXXV-XXXVI - Inocybe alpine e subalpine",
     "autori": "Erminio Ferrari",
     "editore": "Edizioni Candusso",
     "data": "2006",
     "copie": 1,
-    "tags": []
+    "tags": [],
+    "note": null
   },
   {
     "id": 220,
@@ -3359,7 +3360,7 @@
   },
   {
     "id": 235,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXVI – Rare and interesting species of Psathyrella",
     "autori": "Eef Arnolds",
     "editore": "Edizioni Candusso",
@@ -3373,7 +3374,7 @@
   },
   {
     "id": 236,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXIV – Contribution to the knowledge of genus Agaricus",
     "autori": "Luis Alberto Parra Sanchez",
     "editore": "Edizioni Candusso",
@@ -3387,7 +3388,7 @@
   },
   {
     "id": 237,
-    "titolo": "Funghi Non Delineati",
+    "titolo": "Fungi Non Delineati",
     "volume": "Pars XXXIX – Funghi clavaroidi",
     "autori": "Giuseppe Campagnola",
     "editore": "Edizioni Candusso",
