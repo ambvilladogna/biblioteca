@@ -619,16 +619,16 @@
   {
     "id": 46,
     "titolo": "Il libro dei fungi d’Italia",
-    "volume": "",
+    "volume": "conoscerli e cucinarli",
     "copie": 1,
     "autori": "A. Testi",
     "editore": "Demetra",
-    "data": "1999",
+    "data": "1995",
     "tags": [
       "Commestibilità"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 47,
@@ -3411,7 +3411,7 @@
     "editore": "De Agostini Collins",
     "data": "1990",
     "copie": 1,
-    "rating": 1,
+    "rating": 2,
     "tags": [],
     "note": null
   },
@@ -3423,8 +3423,70 @@
     "editore": "Delachaux ed Niestlé",
     "data": "1994",
     "copie": 1,
-    "rating": 1,
+    "rating": 2,
     "tags": [],
+    "note": null
+  },
+  {
+    "id": 240,
+    "titolo": "Il fungo dell'immortalità",
+    "volume": "Ganoderma lucidum reishi",
+    "autori": "Ivo Bianchi, Angelo Pio Taronna, Francesco Bianchi",
+    "editore": "Mos Maiorum Edizioni",
+    "data": "2013",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 241,
+    "titolo": "Guarire con i 12 funghi medicinali",
+    "volume": null,
+    "autori": "Ivo Bianchi, Valentina Bianchi",
+    "editore": "Mos Maiorum Edizioni",
+    "data": "2013",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 242,
+    "titolo": "Guida pratica ai funghi d'Italia",
+    "volume": null,
+    "autori": null,
+    "editore": "Selezione dal Reader's Digest",
+    "data": "1983",
+    "copie": 1,
+    "tags": [],
+    "note": null,
+    "rating": 1
+  },
+  {
+    "id": 243,
+    "titolo": "I funghi",
+    "volume": "Guida al riconoscimento",
+    "autori": "Riccardo Mazza",
+    "editore": "Manuali Sonzogno",
+    "data": "1994",
+    "copie": 1,
+    "tags": [
+      "Formazione"
+    ],
+    "note": null,
+    "rating": 2
+  },
+  {
+    "id": 244,
+    "titolo": "Funghi commestibili e velenosi a confronto",
+    "volume": null,
+    "autori": "Riccardo Mazza",
+    "editore": "Fabbri Editori",
+    "data": "2000",
+    "copie": 1,
+    "rating": 2,
+    "tags": [
+      "Formazione"
+    ],
     "note": null
   }
 ]
