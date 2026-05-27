@@ -2868,15 +2868,15 @@
   },
   {
     "id": 214,
-    "titolo": "I funghi",
-    "volume": "",
+    "titolo": "Come e dove vivono i funghi",
+    "volume": null,
     "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "autori": "Uberto Tosco",
+    "editore": "Istituto Geografico De Agostini - Novara",
+    "data": "1972",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "tipo": "rivista",
@@ -3237,6 +3237,53 @@
     "autori": "P. L. Nimis",
     "editore": "grafiche fulvio spa/ud",
     "data": "1987",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 225,
+    "titolo": "Schede tecniche di microscopia micologica",
+    "volume": "Coloranti - Reagenti - Soluzioni",
+    "autori": "Sergio Ruini, Mario Mariotto, Giorgio Marasca, Gianfranco Visentin, Giuseppe Michilin",
+    "editore": "A.M.B. Fondazione Centro Studi Micologici",
+    "data": "1994",
+    "copie": 2,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 226,
+    "titolo": "Carlo Vittadini 200 anni di micologia",
+    "volume": "I tartufi tra ricerca e divulgazione",
+    "autori": "Luigi Villa",
+    "editore": "Nuova tipografia popolare",
+    "data": "2001",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 227,
+    "titolo": "I funghi della provincia di Pesaro e Urbino – Atlante fotografico",
+    "volume": "volume 2° - I quaderni dell'ambiente: N 21",
+    "autori": "Marco Maletti, Romano Paolini",
+    "editore": "A.M.B. Gruppo di Pesaro",
+    "data": "2005",
+    "copie": 1,
+    "rating": 1,
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": "sembrano diverse edizioni"
+  },
+  {
+    "id": 228,
+    "titolo": "Manuale del cercatore di funghi",
+    "volume": null,
+    "autori": "Paolo Lassini, Roberto Carovigno, Maurizio Salamana, Marco Larghi",
+    "editore": "Regione Lombardia Agricoltura",
+    "data": "2003",
     "copie": 1,
     "tags": [],
     "note": null
