@@ -1659,11 +1659,11 @@
   {
     "id": 122,
     "titolo": "I funghi della provincia di Pesaro e Urbino – Atlante fotografico",
-    "volume": "",
-    "copie": 3,
+    "volume": "volume 1° - I quaderni dell'ambiente: N 16",
+    "copie": 1,
     "autori": "Marco Maletti, Romano Paolini",
-    "editore": "",
-    "data": "",
+    "editore": "A.M.B. Gruppo di Pesaro",
+    "data": "2003",
     "tags": [
       "RealtàLocali"
     ],
@@ -3229,5 +3229,16 @@
     "tags": [],
     "volume": null,
     "note": "Versione originale belga:\n2004 Hainaut Développement.\nDynamique de degradation des arbres par des champignons lignivores.\nGuidance de l'environnement - Cellule tecnique, Mons (Belgio)."
+  },
+  {
+    "id": 224,
+    "titolo": "I Macrolicheni d'Italia",
+    "volume": "chiavi analitiche per la determinazione",
+    "autori": "P. L. Nimis",
+    "editore": "grafiche fulvio spa/ud",
+    "data": "1987",
+    "copie": 1,
+    "tags": [],
+    "note": null
   }
 ]
