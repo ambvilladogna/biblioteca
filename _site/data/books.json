@@ -3338,5 +3338,69 @@
       "Formazione"
     ],
     "note": null
+  },
+  {
+    "id": 233,
+    "titolo": "Ordine Boletales",
+    "volume": "Chiavi pratiche per la classificazione delle specie fungine più note",
+    "autori": "Maurizio Chiari",
+    "editore": null,
+    "data": "1999",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 234,
+    "titolo": "Saggio di Flora Micologica analitica",
+    "volume": null,
+    "autori": "Cesare Balletto",
+    "editore": "Scuola d'arte tipografica don Bosco - Genova",
+    "data": "1972",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 235,
+    "titolo": "Funghi Non Delineati",
+    "volume": "Pars XXVI – Rare and interesting species of Psathyrella",
+    "autori": "Eef Arnolds",
+    "editore": "Edizioni Candusso",
+    "data": "2003",
+    "copie": 1,
+    "rating": 3,
+    "tags": [
+      "Monografia"
+    ],
+    "note": null
+  },
+  {
+    "id": 236,
+    "titolo": "Funghi Non Delineati",
+    "volume": "Pars XXIV – Contribution to the knowledge of genus Agaricus",
+    "autori": "Luis Alberto Parra Sanchez",
+    "editore": "Edizioni Candusso",
+    "data": "2003",
+    "copie": 1,
+    "rating": 3,
+    "tags": [
+      "Monografia"
+    ],
+    "note": null
+  },
+  {
+    "id": 237,
+    "titolo": "Funghi Non Delineati",
+    "volume": "Pars XXXIX – Funghi clavaroidi",
+    "autori": "Giuseppe Campagnola",
+    "editore": "Edizioni Candusso",
+    "data": "2007",
+    "copie": 1,
+    "rating": 3,
+    "tags": [
+      "Monografia"
+    ],
+    "note": null
   }
 ]
