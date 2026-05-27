@@ -882,8 +882,8 @@
   {
     "id": 65,
     "titolo": "I funghi delle valli Orobiche Bergamasche",
-    "volume": "",
-    "copie": 1,
+    "volume": null,
+    "copie": 2,
     "autori": "autori vari",
     "editore": "Gamba",
     "data": "2006",
@@ -891,7 +891,7 @@
       "Monografia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 66,
@@ -2673,14 +2673,14 @@
   {
     "id": 198,
     "titolo": "Funghi d’Italia e d’Europa",
-    "volume": "",
-    "copie": 1,
+    "volume": null,
+    "copie": 2,
     "autori": "Autori vari",
     "editore": "Edizione Idea Natura",
     "data": "1995",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 199,
@@ -3483,6 +3483,20 @@
     "rating": 2,
     "tags": [
       "Formazione"
+    ],
+    "note": null
+  },
+  {
+    "id": 245,
+    "titolo": "Il libro dei fungi d’Italia",
+    "volume": "conoscerli e cucinarli",
+    "autori": "A. Testi",
+    "editore": "Demetra",
+    "data": "1999",
+    "copie": 1,
+    "rating": 1,
+    "tags": [
+      "Commestibilità"
     ],
     "note": null
   }
