@@ -450,7 +450,7 @@
   {
     "id": 34,
     "titolo": "Funghi della pianura lombarda",
-    "volume": "",
+    "volume": "Atlante fotografico",
     "copie": 1,
     "autori": "Emilio Pini",
     "editore": "A.M.B. Gruppo di Crema",
@@ -459,7 +459,7 @@
       "RealtàLocali"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 35,
@@ -952,14 +952,14 @@
   {
     "id": 70,
     "titolo": "L’atlante dei funghi",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Giuseppe Pace",
     "editore": "Oscar Mondadori",
-    "data": "",
+    "data": "1988",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 71,
@@ -990,8 +990,8 @@
   {
     "id": 73,
     "titolo": "Funghi e tartufi dell’Astigiano",
-    "volume": "",
-    "copie": 2,
+    "volume": null,
+    "copie": 3,
     "autori": "autori vari",
     "editore": "A.M.B. Gruppo di Asti",
     "data": "2011",
@@ -999,7 +999,7 @@
       "RealtàLocali"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 74,
@@ -1124,16 +1124,16 @@
   {
     "id": 83,
     "titolo": "I funghi del Polesine",
-    "volume": "",
+    "volume": null,
     "copie": 2,
     "autori": "Provincia di Rovigo",
-    "editore": "",
-    "data": "",
+    "editore": "Grafiche rodigine",
+    "data": "1993",
     "tags": [
       "RealtàLocali"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 84,
@@ -1330,14 +1330,14 @@
   {
     "id": 98,
     "titolo": "Andar per funghi",
-    "volume": "",
+    "volume": null,
     "copie": 2,
     "autori": "Mario Valoti",
     "editore": "Ferrari Editrice (Clusone)",
-    "data": "",
+    "data": "1995",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 99,
