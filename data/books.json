@@ -982,14 +982,14 @@
   {
     "id": 72,
     "titolo": "Champignons d’Europe occidentale",
-    "volume": "",
-    "copie": 1,
+    "volume": null,
+    "copie": 2,
     "autori": "Marcel Bon",
     "editore": "Arthaud",
-    "data": "1992",
+    "data": "1988",
     "tags": [],
     "rating": 2,
-    "note": ""
+    "note": "Anche: Champignons de France et d’Europe occidentale"
   },
   {
     "id": 73,
@@ -3401,6 +3401,18 @@
     "tags": [
       "Monografia"
     ],
+    "note": null
+  },
+  {
+    "id": 238,
+    "titolo": "Funghi d’Italia e d’Europa",
+    "volume": null,
+    "autori": "Stefan Buczacki",
+    "editore": "De Agostini Collins",
+    "data": "1990",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
     "note": null
   }
 ]
