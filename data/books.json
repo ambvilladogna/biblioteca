@@ -1343,7 +1343,7 @@
     "id": 99,
     "titolo": "Fungi Europaei",
     "volume": "1 – Agaricus L: Fr. (Psalliota Fr.)",
-    "copie": 1,
+    "copie": 2,
     "autori": "A. Cappelli",
     "editore": "Candusso Editrice",
     "data": "1984",
@@ -1351,7 +1351,7 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 100,
@@ -1536,22 +1536,10 @@
     "note": ""
   },
   {
-    "id": 113,
-    "titolo": "Cercar funghi",
-    "volume": "",
-    "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
-    "tags": [],
-    "rating": 1,
-    "note": ""
-  },
-  {
     "id": 114,
     "titolo": "Guida alla determinazione dei funghi",
     "volume": "Vol 3° - Inocybe",
-    "copie": 1,
+    "copie": 2,
     "autori": "J. Stangl",
     "editore": "Saturnia",
     "data": "1991",
@@ -1559,7 +1547,7 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 115,
@@ -1579,7 +1567,7 @@
     "id": 116,
     "titolo": "Guida alla determinazione dei funghi",
     "volume": "Vol 1° - Polyporales, Boletas, Agaricales, Russulales",
-    "copie": 1,
+    "copie": 2,
     "autori": "Meinhard Moser",
     "editore": "Saturnia",
     "data": "1986",
@@ -1587,19 +1575,19 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 117,
     "titolo": "Il libro dei fungi",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Alessio, Bauer, Filippi, Rebaudengo, Stecchi",
     "editore": "Rizzoli Editore",
-    "data": "",
+    "data": "1983",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 118,
@@ -1642,8 +1630,8 @@
   {
     "id": 121,
     "titolo": "Mycena d’Europa",
-    "volume": "",
-    "copie": 1,
+    "volume": null,
+    "copie": 2,
     "autori": "Giovanni Robich",
     "editore": "A.M.B. Fondazione Centro Studi Micologici",
     "data": "2003",
@@ -1652,7 +1640,7 @@
       "Monografia"
     ],
     "rating": 3,
-    "note": ""
+    "note": null
   },
   {
     "id": 122,
@@ -1721,20 +1709,6 @@
     "note": ""
   },
   {
-    "id": 127,
-    "titolo": "Fondamenti di Micologia",
-    "volume": "",
-    "copie": 1,
-    "autori": "Rambelli",
-    "editore": "",
-    "data": "",
-    "tags": [
-      "Formazione"
-    ],
-    "rating": 1,
-    "note": ""
-  },
-  {
     "id": 128,
     "titolo": "L’atlante dei funghi",
     "volume": "",
@@ -1757,18 +1731,6 @@
     "tags": [
       "RealtàLocali"
     ],
-    "rating": 1,
-    "note": ""
-  },
-  {
-    "id": 130,
-    "titolo": "Il libro dei fungi",
-    "volume": "",
-    "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
-    "tags": [],
     "rating": 1,
     "note": ""
   },
@@ -1952,22 +1914,22 @@
   {
     "id": 144,
     "titolo": "I funghi scoprirli riconoscerli gustarli",
-    "volume": "",
+    "volume": null,
     "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "autori": "Autori vari",
+    "editore": "Bellavite",
+    "data": "2003",
     "tags": [
       "Commestibilità"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 145,
     "titolo": "Conspectus Fungorum",
-    "volume": "",
-    "copie": 1,
+    "volume": null,
+    "copie": 2,
     "autori": "Albertini et Schweiniz",
     "editore": "A.M.B. Fondazione Centro Studi Micologici",
     "data": "1805",
@@ -1976,33 +1938,33 @@
       "Historia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 146,
     "titolo": "Funghi di Franciacorta",
-    "volume": "",
+    "volume": null,
     "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "autori": "Dario Dogali",
+    "editore": "Edizioni Franciacorta",
+    "data": "2002",
     "tags": [
       "RealtàLocali"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 147,
     "titolo": "Cercar Funghi",
-    "volume": "",
+    "volume": null,
     "copie": 1,
-    "autori": "",
+    "autori": "Guido Stecchi",
     "editore": "Fabbri Editori",
-    "data": "",
+    "data": "1994",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 148,
@@ -3498,6 +3460,171 @@
     "tags": [
       "Commestibilità"
     ],
+    "note": null
+  },
+  {
+    "id": 246,
+    "titolo": "Cercar funghi",
+    "volume": null,
+    "autori": "Federico Andreoli, Guido Stecchi",
+    "editore": "SAGDOS",
+    "data": "1981",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 247,
+    "titolo": "Le amanite",
+    "volume": null,
+    "autori": "Antonio Bettin",
+    "editore": "Libreria Editrice Salesiana",
+    "data": null,
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 248,
+    "titolo": "I nostri funghi",
+    "volume": null,
+    "autori": "Gruppo Micologico del Carso",
+    "editore": "A.M.B. Gruppo di Muggia e del Carso",
+    "data": "2000",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 249,
+    "titolo": "Funghi dell'Astigiano",
+    "volume": "2 contributo: Helvelle ed altri ascomiceti del noccioleto",
+    "autori": "Giorgio Baiano, Sergio Forno, Redj Amerio, Claudio Ferrero, Mario Filippa",
+    "editore": "A.M.B. Gruppo di Asti",
+    "data": "1992",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 250,
+    "titolo": "Fungi Non Delineati",
+    "volume": "Pars XXXI – Rare or noteworthy Helotiales",
+    "autori": "Ain Raitviir",
+    "editore": "Edizioni Candusso",
+    "data": "2006",
+    "copie": 1,
+    "rating": 3,
+    "tags": [
+      "Monografia"
+    ],
+    "note": null
+  },
+  {
+    "id": 251,
+    "titolo": "Fungi Non Delineati",
+    "volume": "Pars XXXII – Notes sur quelques espèces acrtiques et alpines",
+    "autori": "Guillaume Eyssartier, Alain Delannoy",
+    "editore": "Edizioni Candusso",
+    "data": "2006",
+    "copie": 1,
+    "rating": 3,
+    "tags": [
+      "Monografia"
+    ],
+    "note": null
+  },
+  {
+    "id": 252,
+    "titolo": "Fungi Non Delineati",
+    "volume": "Pars XXXIII – Studies in Galerina",
+    "autori": "André de Haan, Ruben Walleyn",
+    "editore": "Edizioni Candusso",
+    "data": "2006",
+    "copie": 1,
+    "rating": 3,
+    "tags": [
+      "Monografia"
+    ],
+    "note": null
+  },
+  {
+    "id": 253,
+    "titolo": "Impariamo a conoscere i funghi del Carso",
+    "volume": "Vol. I",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trieste",
+    "data": "1999",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 254,
+    "titolo": "Impariamo a conoscere i funghi del Carso",
+    "volume": "Vol. II",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trieste",
+    "data": "2000",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 255,
+    "titolo": "Impariamo a conoscere i funghi del Carso",
+    "volume": "Vol. III",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trieste",
+    "data": "2001",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 256,
+    "titolo": "Impariamo a conoscere i funghi del Carso",
+    "volume": "Vol. IV",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trieste",
+    "data": "2002",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 257,
+    "titolo": "Impariamo a conoscere i funghi del Carso",
+    "volume": "Vol. V",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trieste",
+    "data": "2003",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 258,
+    "titolo": "Impariamo a conoscere i funghi del Carso",
+    "volume": "Vol. VI",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trieste",
+    "data": "2004",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 259,
+    "titolo": "Il primo corso di introduzione alla micologia",
+    "volume": null,
+    "autori": "I fungiatt di Stì e di paés visìt",
+    "editore": "ABgrafica",
+    "data": "2005",
+    "copie": 1,
+    "tags": [],
     "note": null
   }
 ]
