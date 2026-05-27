@@ -37,11 +37,9 @@
     "autori": "Mario Galli",
     "editore": "MAZZOTTA",
     "data": "1982",
-    "tags": [
-      "Formazione"
-    ],
+    "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 4,
@@ -51,11 +49,9 @@
     "autori": "Mario Galli",
     "editore": "MAZZOTTA",
     "data": "1982",
-    "tags": [
-      "Formazione"
-    ],
+    "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 5,
