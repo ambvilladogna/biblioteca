@@ -2704,13 +2704,13 @@
     "id": 200,
     "titolo": "I funghi dal vero",
     "volume": "1°",
-    "copie": 4,
+    "copie": 5,
     "autori": "Bruno Cetto",
     "editore": "Saturnia Trento",
     "data": "1989",
     "tags": [],
     "rating": 2,
-    "note": ""
+    "note": null
   },
   {
     "id": 201,
