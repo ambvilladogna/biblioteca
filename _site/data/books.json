@@ -1846,18 +1846,18 @@
   },
   {
     "id": 136,
-    "titolo": "I funghi freschi – secchi e conservati nella pratica ispettiva",
-    "volume": "",
+    "titolo": "I funghi freschi, secchi e conservati nella pratica ispettiva",
+    "volume": null,
     "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "autori": "Nando Togni, Filiberto Fiandri",
+    "editore": "Edagricole",
+    "data": "1987",
     "tags": [
       "Formazione",
       "Commestibilità"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 137,
@@ -3285,6 +3285,41 @@
     "editore": "Regione Lombardia Agricoltura",
     "data": "2003",
     "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 229,
+    "titolo": "Fauna Protetta in Lombardia",
+    "volume": null,
+    "autori": "Assessorato agricoltura regione Lombardia",
+    "editore": "Editoriale Olimpia",
+    "data": "1977",
+    "copie": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 230,
+    "titolo": "Storia, natura e curiosità dell'Appennino Centrale",
+    "volume": "Abruzzo Lazio Molise",
+    "autori": null,
+    "editore": null,
+    "data": null,
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 231,
+    "titolo": "Biblioteca Nazionale",
+    "volume": "ex MACHOL",
+    "autori": "Patrizia Brenna, Massimo Candusso, Gianni Giana, Sergio Ruini",
+    "editore": "A.M.B.",
+    "data": null,
+    "copie": 2,
+    "rating": 1,
     "tags": [],
     "note": null
   }
