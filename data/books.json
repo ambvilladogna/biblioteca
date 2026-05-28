@@ -2556,8 +2556,8 @@
   {
     "id": 141,
     "titolo": "Don Giacomo Bresadola da Ortisé il prete dei funghi",
-    "volume": "",
-    "copie": 1,
+    "volume": null,
+    "copie": 2,
     "autori": "Udalrico Fantelli",
     "editore": "Centro Studi per la Val di Sole",
     "data": "2014",
@@ -2565,21 +2565,21 @@
       "Historia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 142,
     "titolo": "Alla scoperta dei funghi del monte Barro",
-    "volume": "",
+    "volume": null,
     "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "autori": "Ferruccio Castelli, Angelo Moron",
+    "editore": "A.M.B. Gruppi di Galbiate e Rogeno",
+    "data": "2013",
     "tags": [
       "RealtàLocali"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 143,
