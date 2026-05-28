@@ -1635,9 +1635,9 @@
     "id": 70,
     "titolo": "L’atlante dei funghi",
     "volume": null,
-    "copie": 1,
+    "copie": 2,
     "autori": "Giuseppe Pace",
-    "editore": "Oscar Mondadori",
+    "editore": "Arnoldo Mondadori Editore",
     "data": "1988",
     "tags": [],
     "rating": 1,
@@ -2405,30 +2405,30 @@
   {
     "id": 129,
     "titolo": "I funghi in Lombardia",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Roberto Galli",
-    "editore": "",
-    "data": "",
+    "editore": "Edizioni dell'Ambrosino",
+    "data": "1989",
     "tags": [
       "RealtàLocali"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 131,
     "titolo": "Il Porcino",
-    "volume": "",
+    "volume": null,
     "copie": 1,
-    "autori": "Luciano Alessio",
-    "editore": "",
-    "data": "",
+    "autori": "Carlo Luciano Alessio",
+    "editore": "Edagricole",
+    "data": "1978",
     "tags": [
       "Monografia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 132,
@@ -4406,6 +4406,84 @@
       "Formazione",
       "Commestibilità"
     ],
+    "note": null
+  },
+  {
+    "id": 266,
+    "titolo": "Funghi di Lombardia",
+    "volume": null,
+    "autori": "Mario Valoti",
+    "editore": "Edizioni Cesare Ferrari - Clusone",
+    "data": "1980",
+    "copie": 1,
+    "rating": 1,
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null
+  },
+  {
+    "id": 267,
+    "titolo": "Cento funghi da conoscere",
+    "volume": null,
+    "autori": "Alberto Sessi",
+    "editore": "Regione Lombardia",
+    "data": "1976",
+    "copie": 1,
+    "rating": 1,
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null
+  },
+  {
+    "id": 268,
+    "titolo": "Disciplina per la raccolta dei funghi nella provincia di Bregamo",
+    "volume": null,
+    "autori": "Autori vari",
+    "editore": "Editrice Cesare Ferrari - Clusone",
+    "data": "1985",
+    "copie": 2,
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null,
+    "rating": 1
+  },
+  {
+    "id": 269,
+    "titolo": "I funghi",
+    "volume": "quando e dove trovarli, quali raccogliere, ome mangiarli",
+    "autori": "Carlo Serafin",
+    "editore": "Edagricole",
+    "data": "1977",
+    "copie": 1,
+    "tags": [],
+    "note": null,
+    "rating": 1
+  },
+  {
+    "id": 270,
+    "titolo": "Il libro dei fungi",
+    "volume": null,
+    "autori": "Hans Haas, Heinz Schrempp",
+    "editore": "farnco muzzio & c. editore",
+    "data": "1980",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 271,
+    "titolo": "Fondamenti di micologia",
+    "volume": null,
+    "autori": "Angelo Rambelli",
+    "editore": "Zanichelli",
+    "data": "1981",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
     "note": null
   }
 ]
