@@ -2328,7 +2328,7 @@
     "id": 122,
     "titolo": "I funghi della provincia di Pesaro e Urbino – Atlante fotografico",
     "volume": "volume 1° - I quaderni dell'ambiente: N 16",
-    "copie": 1,
+    "copie": 2,
     "autori": "Marco Maletti, Romano Paolini",
     "editore": "A.M.B. Gruppo di Pesaro",
     "data": "2003",
@@ -2341,54 +2341,54 @@
   {
     "id": 123,
     "titolo": "L’atlante dei funghi",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Augusto Rinaldi, Vassili Tyndalo, Giulio Pace, Giuseppe Pace",
     "editore": "Mondadori",
-    "data": "",
+    "data": "1972",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 124,
     "titolo": "Fungorum Agri Ariminensis Historia",
-    "volume": "",
+    "volume": "Ristampa integrale",
     "copie": 1,
-    "autori": "",
+    "autori": "J. Antonio Battarra, Pier Carlo Righetti",
     "editore": "Bruno Ghighi Editore",
     "data": "1990",
     "tags": [
       "Historia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 125,
     "titolo": "I Boleti",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "E. G. Merlo, M. Rosso, M. Traveso",
     "editore": "SAGEP Editrice",
-    "data": "",
+    "data": "1980",
     "tags": [
       "Monografia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 126,
     "titolo": "Prepoznavanje Gljiva",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Peter Jordan",
-    "editore": "",
-    "data": "",
+    "editore": "Leo Commerce",
+    "data": "2004",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 128,
