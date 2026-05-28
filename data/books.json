@@ -1753,7 +1753,7 @@
     "id": 79,
     "titolo": "Corso di formazione micologica",
     "volume": "Volume I – Introduzione allo studio dei funghi",
-    "copie": 1,
+    "copie": 2,
     "autori": "Tipolitografia Queriniana",
     "editore": "Circolo Micologico “Giovanni Carini”",
     "data": "1992",
@@ -2447,8 +2447,8 @@
   {
     "id": 133,
     "titolo": "Le amanite",
-    "volume": "",
-    "copie": 1,
+    "volume": null,
+    "copie": 2,
     "autori": "E. G. Merlo, M. Traveso",
     "editore": "SAGEP Editrice",
     "data": "1983",
@@ -2456,7 +2456,7 @@
       "Monografia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 134,
@@ -2464,27 +2464,27 @@
     "volume": "6 – Les Bolets Boletaceae",
     "copie": 1,
     "autori": "G. Lannoy, A. Estades",
-    "editore": "",
-    "data": "",
+    "editore": "CRDP",
+    "data": "2001",
     "tags": [
       "Monografia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 135,
     "titolo": "La vegetazione dei colli morenici del Garda",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "E. Crosato, G. Grossi, G. Persico, G. Voltolini",
-    "editore": "",
-    "data": "",
+    "editore": "Publi-Paolini Mantova",
+    "data": "1988",
     "tags": [
       "RealtàLocali"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 136,
@@ -2504,16 +2504,16 @@
   {
     "id": 137,
     "titolo": "Il fungo Pleuroto",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Floriano Ferri",
-    "editore": "",
-    "data": "",
+    "editore": "Universale Edagricole",
+    "data": "1981",
     "tags": [
       "Monografia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 138,
@@ -2530,28 +2530,28 @@
   {
     "id": 139,
     "titolo": "Funghi",
-    "volume": "",
+    "volume": null,
     "copie": 1,
-    "autori": "",
-    "editore": "",
-    "data": "",
+    "autori": "Thomas Læssøe",
+    "editore": "Dorling Kindersley Handbooks",
+    "data": "2004",
     "tags": [],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 140,
     "titolo": "I funghi velenosi",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Nino Arietti, Renato Tomasi",
-    "editore": "",
-    "data": "",
+    "editore": "Edagricole",
+    "data": "1975",
     "tags": [
       "Commestibilità"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 141,
@@ -3816,12 +3816,14 @@
   {
     "id": 218,
     "titolo": "Gastromiceti",
-    "editore": "A. M. B. - Gruppo Micologico Parmense \"G. Passarini\"",
+    "editore": "A. M. B. - Gruppo Micologico Parmense \"G. Passerini\"",
     "data": "1980",
-    "copie": 1,
+    "copie": 2,
     "rating": 1,
     "tags": [],
-    "note": "traduzione da: Michael - Hennig: Handbuch\nPilat: Flora CSR"
+    "note": "traduzione da: Michael - Hennig: Handbuch\nPilat: Flora CSR",
+    "volume": null,
+    "autori": null
   },
   {
     "id": 219,
@@ -4327,6 +4329,83 @@
     "data": "2005",
     "copie": 1,
     "tags": [],
+    "note": null
+  },
+  {
+    "id": 260,
+    "titolo": "ATTI 46° Comitato Scientifico Nazionale",
+    "volume": "Roverè Veronese",
+    "autori": "Autori vari",
+    "editore": "A.M.B.",
+    "data": "2000",
+    "copie": 1,
+    "rating": 1,
+    "tags": [
+      "A.M.B."
+    ],
+    "note": null
+  },
+  {
+    "id": 261,
+    "titolo": "Il mondo della micologia",
+    "volume": null,
+    "autori": "Carlo Zaffalon, Daniela Crescente",
+    "editore": "Gruppo Micologico Agrimont",
+    "data": "1990",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 262,
+    "titolo": "Alcune specie interessanti... e nuove proposte di studio",
+    "volume": "Primo contributo - XIX Comitato Scientifico Nazionale - Serina - Bergamo",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trento",
+    "data": "1986",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 263,
+    "titolo": "Alcune specie interessanti... e nuove proposte di studio",
+    "volume": "Secondo contributo - XIX Comitato Scientifico Nazionale - Serina - Bergamo",
+    "autori": "Autori vari",
+    "editore": "A.M.B. Gruppo di Trento",
+    "data": "1986",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 264,
+    "titolo": "Andar per funghi nel parco...",
+    "volume": null,
+    "autori": "Mario Valoti",
+    "editore": "Consorzio Parco Ticino",
+    "data": "1992",
+    "copie": 1,
+    "rating": 1,
+    "tags": [],
+    "note": null
+  },
+  {
+    "id": 265,
+    "titolo": "I funghi freschi, secchi e conservati nella pratica ispettiva",
+    "volume": null,
+    "autori": "Nando Togni, Filiberto Fiandri",
+    "editore": "Gruppo Naturalistico Modenese",
+    "data": "1986",
+    "copie": 1,
+    "rating": 1,
+    "tags": [
+      "Formazione",
+      "Commestibilità"
+    ],
     "note": null
   }
 ]
