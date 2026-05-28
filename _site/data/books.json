@@ -3494,7 +3494,9 @@
     "data": "2000",
     "copie": 1,
     "rating": 1,
-    "tags": [],
+    "tags": [
+      "RealtàLocali"
+    ],
     "note": null
   },
   {
@@ -3558,8 +3560,11 @@
     "editore": "A.M.B. Gruppo di Trieste",
     "data": "1999",
     "copie": 1,
-    "tags": [],
-    "note": null
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null,
+    "rating": 1
   },
   {
     "id": 254,
@@ -3569,8 +3574,11 @@
     "editore": "A.M.B. Gruppo di Trieste",
     "data": "2000",
     "copie": 1,
-    "tags": [],
-    "note": null
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null,
+    "rating": 1
   },
   {
     "id": 255,
@@ -3580,8 +3588,11 @@
     "editore": "A.M.B. Gruppo di Trieste",
     "data": "2001",
     "copie": 1,
-    "tags": [],
-    "note": null
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null,
+    "rating": 1
   },
   {
     "id": 256,
@@ -3591,8 +3602,11 @@
     "editore": "A.M.B. Gruppo di Trieste",
     "data": "2002",
     "copie": 1,
-    "tags": [],
-    "note": null
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null,
+    "rating": 1
   },
   {
     "id": 257,
@@ -3602,8 +3616,11 @@
     "editore": "A.M.B. Gruppo di Trieste",
     "data": "2003",
     "copie": 1,
-    "tags": [],
-    "note": null
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null,
+    "rating": 1
   },
   {
     "id": 258,
@@ -3613,8 +3630,11 @@
     "editore": "A.M.B. Gruppo di Trieste",
     "data": "2004",
     "copie": 1,
-    "tags": [],
-    "note": null
+    "tags": [
+      "RealtàLocali"
+    ],
+    "note": null,
+    "rating": 1
   },
   {
     "id": 259,
