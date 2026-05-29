@@ -1199,18 +1199,17 @@
   {
     "id": 39,
     "titolo": "Omnia Bresadoliana Extracta",
-    "volume": "",
+    "volume": null,
     "copie": 1,
     "autori": "Jacobus Bresadola",
     "editore": "A.M.B. Gruppo di Trento",
     "data": "1979",
     "tags": [
       "A.M.B.",
-      "RealtàLocali",
       "Historia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 40,
@@ -2902,11 +2901,10 @@
     "editore": "Societa Micologica Carlo Benzoni",
     "data": "1991",
     "tags": [
-      "RealtàLocali",
       "Historia"
     ],
     "rating": 1,
-    "note": ""
+    "note": null
   },
   {
     "id": 167,
